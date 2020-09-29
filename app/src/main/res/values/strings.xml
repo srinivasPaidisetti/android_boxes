@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GridLayout</string>
+    <string name="enter_no_of_boxes">Enter No of Boxes</string>
+    <string name="submit">Submit</string>
+    <string name="g">G</string>
+    <string name="r">R</string>
+    <string name="b">B</string>
+</resources>
